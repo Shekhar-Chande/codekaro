@@ -1,0 +1,152 @@
+.business{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:cadetblue;
+    width: 450px;
+    margin: 50px auto;
+    padding: 100px;
+    border-radius: 20px;
+}
+
+.business h1{
+    font-size: 40px;
+}
+
+.business p{
+    font-weight: bold;
+}
+.business button{
+    border: none;
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 40px;
+    font-weight: bold;
+}
+
+
+
+.profile{
+    border: 1px solid lightgray;
+    width: 600px;
+    margin: 100px auto;
+    border-radius: 20px;
+}
+
+.profile h2{
+    font-size: 40px;
+    padding-left: 50px;
+}
+
+.profile p{
+    padding-left: 60px;
+    font-size: 25px;
+    color: gray;
+}
+
+.profile img{
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 50%;
+    padding: 60px;
+
+}
+
+.see-profile{
+    border-top: 1px solid lightgray; 
+    color: blue;
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+.google{
+    width: 600px;
+    border: 1px solid lightgray;
+    margin: 50px auto; 
+    border-radius: 20px;
+}
+
+
+.google img{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.content{
+    padding: 40px;
+}
+
+.content h4{
+    color: gray;
+    font-size: 25px;
+}
+.content h1{
+    font-size: 40px;
+}
+
+.content p{
+    color: gray;
+    font-size: 20px;
+}
+
+.content button{
+    border: 1px solid lightgray;
+    padding: 15px 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    color:cornflowerblue;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.content img{
+    width: 25px;
+    padding-right: 10px;
+}
+
+
+.form{
+    width: 400px;
+    margin: 80px auto;
+    /* border: 1px solid lightgray; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.form img{
+    margin-left: 25%;
+    width: 200px;
+
+}
+.form h3{
+    margin-left: 32%;
+}
+
+.input{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+
+.form button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 14px 32px;
+    font-size: 16px;
+    border-radius: 40px;
+    margin-left: 25%;
+}
+
+.form p{
+    margin-left: 28%;
+   
+}
+
+
+
+
